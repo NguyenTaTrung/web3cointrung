@@ -1,1 +1,1 @@
-# web3cointrung
+# web3cointrung.js
